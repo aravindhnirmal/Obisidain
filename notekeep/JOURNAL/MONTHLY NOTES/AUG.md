@@ -1,0 +1,11 @@
+- [ ] EM COMPLETED
+	- [ ] [[GRAPH THEORY]]
+	- [ ] [[COMBINATORS]]
+- [ ] os completed
+	- [ ] [[OS]]
+- [ ] DLD
+	- [ ] [[DLD]]
+- [ ] DBMS  3/4
+	- [ ] [[DBMS]] 50 videos
+- [ ] APITUDE 25%
+- [ ] REASONING 25% 

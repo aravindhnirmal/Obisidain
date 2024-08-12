@@ -1,0 +1,10 @@
+[[Keep/Colour/DEFAULT]] 
+
+PHARMA
+
+1. CIPLA
+2. 2. DIVIS LABS
+3. 3. DR REDDY
+4. 4. LUPIN
+5. 5. SUN PHARMA
+6. Natco pharma

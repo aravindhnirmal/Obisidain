@@ -1,0 +1,25 @@
+[[Keep/Colour/DEFAULT]] [[Keep/Archived]] 
+
+- [ ] Clustering:
+- [ ] K-Means Clustering
+- [ ] Hierarchical Clustering
+- [ ] Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
+- [ ] Expectation-Maximization (EM) Clustering
+- [ ] Gaussian Mixture Models (GMM)
+- [ ] Dimensionality Reduction:
+- [ ] Principal Component Analysis (PCA)
+- [ ] t-distributed Stochastic Neighbor Embedding (t-SNE)
+- [ ] Linear Discriminant Analysis (LDA)
+- [ ] Independent Component Analysis (ICA)
+- [ ] Non-negative Matrix Factorization (NMF)
+- [ ] Autoencoders
+- [ ] Anomaly Detection:
+- [ ] Isolation Forest
+- [ ] Local Outlier Factor (LOF)
+- [ ] One-class Support Vector Machines (SVM
+- [ ] Association Rule Mining:
+- [ ] Apriori Algorithm
+- [ ] FP-Growth Algorithm
+- [ ] Generative Models:
+- [ ] Variational Autoencoders (VAEs)
+- [ ] Generative Adversarial Networks (GANs)

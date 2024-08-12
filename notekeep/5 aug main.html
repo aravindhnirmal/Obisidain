@@ -1,0 +1,278 @@
+<!doctype html>
+<html>
+    <head>
+        <title>5 aug main</title>
+        <meta charset='utf-8'/>
+        <style>
+ .ͼ1.cm-focused {outline: 1px dotted #212121;}
+.ͼ1 {position: relative !important; box-sizing: border-box; display: flex !important; flex-direction: column;}
+.ͼ1 .cm-scroller {display: flex !important; align-items: flex-start !important; font-family: monospace; line-height: 1.4; height: 100%; overflow-x: auto; position: relative; z-index: 0;}
+.ͼ1 .cm-content[contenteditable=true] {-webkit-user-modify: read-write-plaintext-only;}
+.ͼ1 .cm-content {margin: 0; flex-grow: 2; flex-shrink: 0; display: block; white-space: pre; word-wrap: normal; box-sizing: border-box; min-height: 100%; padding: 4px 0; outline: none;}
+.ͼ1 .cm-lineWrapping {white-space: pre-wrap; white-space: break-spaces; word-break: break-word; overflow-wrap: anywhere; flex-shrink: 1;}
+.ͼ2 .cm-content {caret-color: black;}
+.ͼ3 .cm-content {caret-color: white;}
+.ͼ1 .cm-line {display: block; padding: 0 2px 0 6px;}
+.ͼ1 .cm-layer > * {position: absolute;}
+.ͼ1 .cm-layer {position: absolute; left: 0; top: 0; contain: size style;}
+.ͼ2 .cm-selectionBackground {background: #d9d9d9;}
+.ͼ3 .cm-selectionBackground {background: #222;}
+.ͼ2.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #d7d4f0;}
+.ͼ3.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #233;}
+.ͼ1 .cm-cursorLayer {pointer-events: none;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer {animation: steps(1) cm-blink 1.2s infinite;}
+@keyframes cm-blink {50% {opacity: 0;}}
+@keyframes cm-blink2 {50% {opacity: 0;}}
+.ͼ1 .cm-cursor, .ͼ1 .cm-dropCursor {border-left: 1.2px solid black; margin-left: -0.6px; pointer-events: none;}
+.ͼ1 .cm-cursor {display: none;}
+.ͼ3 .cm-cursor {border-left-color: #444;}
+.ͼ1 .cm-dropCursor {position: absolute;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer .cm-cursor {display: block;}
+.ͼ1 .cm-iso {unicode-bidi: isolate;}
+.ͼ1 .cm-announced {position: fixed; top: -10000px;}
+@media print {.ͼ1 .cm-announced {display: none;}}
+.ͼ2 .cm-activeLine {background-color: #cceeff44;}
+.ͼ3 .cm-activeLine {background-color: #99eeff33;}
+.ͼ2 .cm-specialChar {color: red;}
+.ͼ3 .cm-specialChar {color: #f78;}
+.ͼ1 .cm-gutters {flex-shrink: 0; display: flex; height: 100%; box-sizing: border-box; inset-inline-start: 0; z-index: 200;}
+.ͼ2 .cm-gutters {background-color: #f5f5f5; color: #6c6c6c; border-right: 1px solid #ddd;}
+.ͼ3 .cm-gutters {background-color: #333338; color: #ccc;}
+.ͼ1 .cm-gutter {display: flex !important; flex-direction: column; flex-shrink: 0; box-sizing: border-box; min-height: 100%; overflow: hidden;}
+.ͼ1 .cm-gutterElement {box-sizing: border-box;}
+.ͼ1 .cm-lineNumbers .cm-gutterElement {padding: 0 3px 0 5px; min-width: 20px; text-align: right; white-space: nowrap;}
+.ͼ2 .cm-activeLineGutter {background-color: #e2f2ff;}
+.ͼ3 .cm-activeLineGutter {background-color: #222227;}
+.ͼ1 .cm-panels {box-sizing: border-box; position: sticky; left: 0; right: 0;}
+.ͼ2 .cm-panels {background-color: #f5f5f5; color: black;}
+.ͼ2 .cm-panels-top {border-bottom: 1px solid #ddd;}
+.ͼ2 .cm-panels-bottom {border-top: 1px solid #ddd;}
+.ͼ3 .cm-panels {background-color: #333338; color: white;}
+.ͼ1 .cm-tab {display: inline-block; overflow: hidden; vertical-align: bottom;}
+.ͼ1 .cm-widgetBuffer {vertical-align: text-top; height: 1em; width: 0; display: inline;}
+.ͼ1 .cm-placeholder {color: #888; display: inline-block; vertical-align: top;}
+.ͼ1 .cm-highlightSpace:before {content: attr(data-display); position: absolute; pointer-events: none; color: #888;}
+.ͼ1 .cm-highlightTab {background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="20"><path stroke="%23888" stroke-width="1" fill="none" d="M1 10H196L190 5M190 15L196 10M197 4L197 16"/></svg>'); background-size: auto 100%; background-position: right 90%; background-repeat: no-repeat;}
+.ͼ1 .cm-trailingSpace {background-color: #ff332255;}
+.ͼ1 .cm-button {vertical-align: middle; color: inherit; font-size: 70%; padding: .2em 1em; border-radius: 1px;}
+.ͼ2 .cm-button:active {background-image: linear-gradient(#b4b4b4, #d0d3d6);}
+.ͼ2 .cm-button {background-image: linear-gradient(#eff1f5, #d9d9df); border: 1px solid #888;}
+.ͼ3 .cm-button:active {background-image: linear-gradient(#111, #333);}
+.ͼ3 .cm-button {background-image: linear-gradient(#393939, #111); border: 1px solid #888;}
+.ͼ1 .cm-textfield {vertical-align: middle; color: inherit; font-size: 70%; border: 1px solid silver; padding: .2em .5em;}
+.ͼ2 .cm-textfield {background-color: white;}
+.ͼ3 .cm-textfield {border: 1px solid #555; background-color: inherit;}
+.ͼ1 .cm-foldPlaceholder {background-color: #eee; border: 1px solid #ddd; color: #888; border-radius: .2em; margin: 0 1px; padding: 0 1px; cursor: pointer;}
+.ͼ1 .cm-foldGutter span {padding: 0 1px; cursor: pointer;}
+ 
+.pandoc-plugin-error {
+    color: red;
+}
+ undefined
+</style>
+    </head>
+    <body>
+<h1 data-heading="Chapter one" dir="auto">Chapter one</h1>
+<h4 data-heading="Overview:" dir="auto">Overview:</h4>
+<p dir="auto">The non-corporate or unincorporated sector in India is a crucial part of the economy, contributing significantly to national income, savings, investments, taxes, manufacturing, services, and employment. Despite its importance, this sector often suffers from a perceived inferiority compared to the corporate sector. Understanding the terminology and the nature of the non-corporate sector is essential.</p>
+<h4 data-heading="Terminology and Classification:" dir="auto">Terminology and Classification:</h4>
+<ul>
+<li dir="auto">
+<p><strong>Unorganized vs. Organized Sectors:</strong></p>
+<ul>
+<li dir="auto">The National Accounts Statistics (NAS) classifies the economy into 'organized' and 'unorganized' sectors.</li>
+<li dir="auto"><mark>The 'organized sector' includes enterprises registered under specific laws (e.g., Indian Factories Act, Mines and Minerals Act, Company Law, Sales Tax Acts, Shops and Establishment Acts, etc.), government companies, and non-profit organizations.</mark></li>
+<li dir="auto">The '<mark>unorganized sector' consists of unincorporated enterprises and household industries not regulated by the aforementioned acts and not maintaining formal accounts.</mark></li>
+</ul>
+</li>
+<li dir="auto">
+<p><strong>Non-Corporate Sector:</strong></p>
+<ul>
+<li dir="auto">This sector <mark>comprises partnership/proprietorship firms and self-employed individuals.</mark></li>
+<li dir="auto">It can be part of <mark>either the organized or unorganized sector, depending on registration and accounting practices.</mark></li>
+<li dir="auto">Typically, unregistered units in manufacturing (e.g., partnership/proprietorship organizations) and various service activities fall under the unorganized sector.</li>
+</ul>
+</li>
+</ul>
+<h4 data-heading="Importance and Focus:" dir="auto">Importance and Focus:</h4>
+<ul>
+<li dir="auto">The non-corporate sector's contribution to <mark>national income is significant, accounting for more than one-third of the total.</mark></li>
+<li dir="auto">Despite its large share, reforms and discussions have traditionally focused on the corporate sector.</li>
+<li dir="auto">There is a need for dedicated attention to understand, analyze, and reform the non-corporate sector due to its substantial role in the economy.</li>
+</ul>
+<h4 data-heading="Examples and Coverage:" dir="auto">Examples and Coverage:</h4>
+<ul>
+<li dir="auto">
+<p><strong>Organized Sector Activities:</strong></p>
+<ul>
+<li dir="auto">Agriculture (government irrigation, plantation crop production)</li>
+<li dir="auto">Forestry (recorded industrial and fuel wood production)</li>
+<li dir="auto">Fishing (public enterprises)</li>
+<li dir="auto">Mining &amp; Quarrying (major minerals)</li>
+<li dir="auto">Manufacturing (registered factories)</li>
+<li dir="auto">Electricity, Gas, and Water Supply (public sector activities)</li>
+<li dir="auto">Construction (public and private corporate sector)</li>
+<li dir="auto">Trade, Hotels, and Restaurants (public and private corporate sector)</li>
+<li dir="auto">Railways (entire sector)</li>
+<li dir="auto">Transport (public sector, private shipping companies, airlines, road transport under corporate sector)</li>
+<li dir="auto">Storage (public sector warehousing, cold storage under Factories Act)</li>
+<li dir="auto">Communication (public sector, private corporate sector)</li>
+<li dir="auto">Banking and Insurance (except certain unorganized activities)</li>
+<li dir="auto">Real Estate and Business Services (private and public corporate sector)</li>
+<li dir="auto">Public Administration and Defence (entire sector)</li>
+<li dir="auto">Other Services (public and private corporate sector medical, educational institutions)</li>
+</ul>
+</li>
+<li dir="auto">
+<p><strong>Unorganized Sector:</strong></p>
+<ul>
+<li dir="auto">Includes all unregistered manufacturing units and various service activities conducted by partnership or proprietorship firms.</li>
+</ul>
+</li>
+</ul>
+<h3 data-heading="Informal Sector in India: Overview and Analysis" dir="auto">Informal Sector in India: Overview and Analysis</h3>
+<h4 data-heading="Key Features of the Informal Sector:" dir="auto">Key Features of the Informal Sector:</h4>
+<ol>
+<li dir="auto"><strong>Low Organization and Small Scale:</strong>
+<ul>
+<li dir="auto">Typically <mark>employs fewer than ten workers,</mark> often family members.</li>
+<li dir="auto">Operates on <mark>a small scale with minimal formal structure.</mark></li>
+</ul>
+</li>
+<li dir="auto"><strong>Diverse Activities:</strong>
+<ul>
+<li dir="auto"><mark>Encompasses a wide range of economic activities.</mark></li>
+</ul>
+</li>
+<li dir="auto"><strong>Easy Entry and Exit:</strong>
+<ul>
+<li dir="auto"><mark>Entry into and exit from the sector is easier compared</mark> to the formal sector.</li>
+</ul>
+</li>
+<li dir="auto"><strong>Minimal Capital Investment:</strong>
+<ul>
+<li dir="auto"><mark>Limited capital investment</mark> with little distinction between labor and capital.</li>
+</ul>
+</li>
+<li dir="auto"><strong>Labor-Intensive Work:</strong>
+<ul>
+<li dir="auto">Jobs <mark>often require low-level skills,</mark> with workers learning on the <mark>job without formal training.</mark></li>
+</ul>
+</li>
+<li dir="auto"><strong>Informal Labor Relations:</strong>
+<ul>
+<li dir="auto">Employment is based on <mark>casual or social relationships rather than formal contracts.</mark></li>
+<li dir="auto">Worker <mark>rights are minimal</mark> and often unrecognized.</li>
+</ul>
+</li>
+<li dir="auto"><strong>Isolation and Lack of Awareness:</strong>
+<ul>
+<li dir="auto">Workers are often un<mark>aware of their rights and lack the power to negotiate with employers.</mark></li>
+<li dir="auto">There is little organization among workers, <mark>reducing their bargaining power.</mark></li>
+</ul>
+</li>
+</ol>
+<h4 data-heading="Definition and Scope:" dir="auto">Definition and Scope:</h4>
+<ul>
+<li dir="auto"><strong>Informal Sector:</strong>
+<ul>
+<li dir="auto">Comprises economic activities outside the official regulatory framework.</li>
+<li dir="auto">Includes unincorporated, proprietary, and partnership enterprises.</li>
+<li dir="auto">Agricultural activities are generally not part of the informal sector.</li>
+</ul>
+</li>
+</ul>
+<h4 data-heading="Terminology and Classification Issues:" dir="auto">Terminology and Classification Issues:</h4>
+<ul>
+<li dir="auto"><strong>Non-Corporate Sector:</strong>
+<ul>
+<li dir="auto">Refers to entities that are <mark>not incorporated, including partnership/proprietorship firms and self-employed individuals (e.g., barbers, carpenters, plumbers).</mark></li>
+<li dir="auto">Excludes company forms of organization in both private and public sectors.</li>
+<li dir="auto">Often overlaps with the informal sector, especially in service activities.</li>
+</ul>
+</li>
+</ul>
+<h4 data-heading="National Accounts Statistics (NAS):" dir="auto">National Accounts Statistics (NAS):</h4>
+<ul>
+<li dir="auto">
+<p><strong>Organized vs. Unorganized:</strong></p>
+<ul>
+<li dir="auto">Organized sector includes <mark>registered enterprises and those governed by specific acts.</mark></li>
+<li dir="auto">Unorganized sector includes unincorporated enterprises not covered by these acts.</li>
+</ul>
+</li>
+<li dir="auto">
+<p><strong>Surveys and Data:</strong></p>
+<ul>
+<li dir="auto">The <mark>first nationwide survey of the informal sector was conducted in 1999-2000 by the National Sample Survey (NSS).</mark></li>
+</ul>
+</li>
+<li dir="auto">
+<p><mark>informal sector consists of all economic activities that remain outside the official institutional framework.</mark></p>
+</li>
+<li dir="auto">
+<p>government has <mark>little control over the quality of employmen</mark>t. Generally, <mark>agricultural activity does not come under the purview of the informal set.</mark> </p>
+</li>
+</ul>
+<p dir="auto">The <mark>informal sector, as a subset of the non-corporate sector, plays a vital role in the Indian economy</mark>. There is a critical need for improved statistical methods and clarity in terminology to ensure better economic planning and policy formulation. Reliable data is essential for India's orderly growth and development.</p>
+<p dir="auto">unincorporated, proprietary and partnership enterprises have been<br>
+defined as informal sector enterprises. From the above-mentioned<br>
+discussion on the informal sector we can conclude that it is a sub-set of the<br>
+non-corporate sector if we consider all non-company forms of activities,<br>
+Uninc.</p>
+<p dir="auto"><img alt="Pasted image 20240727153149.png" src="Pasted image 20240727153149.png" class="internal-embed"></p>
+<h3 data-heading="Non-Corporate Sector Overview" dir="auto">Non-Corporate Sector Overview</h3>
+<ul>
+<li dir="auto"><strong>Definition</strong>: The non-corporate sector (Uninc.) comprises entities that are not corporate, including those involved in non-agricultural and non-government activities. This sector includes:
+<ul>
+<li dir="auto"><strong>Partnerships and Proprietorships</strong>: Various small businesses and self-employed individuals.</li>
+<li dir="auto"><strong>Self-Employed Professionals</strong>: Barbers, cobblers, carpenters, plumbers, electricians, etc.</li>
+<li dir="auto"><strong>Co-operative Organizations</strong>: Those not under government control.</li>
+</ul>
+</li>
+<li dir="auto"><strong>Tax Classification</strong>: Includes individuals, proprietorships, partnerships, Hindu Undivided Families (HUFs), etc.</li>
+<li dir="auto"><strong>Activities</strong>: Major contributors to manufacturing, construction, transport, trade, hotels, restaurants, and business and personal services.</li>
+<li dir="auto"><strong>Terminology</strong>: The term ‘Uninc.’ is preferred over ‘un-organized’ to reflect its organized and formal nature.</li>
+</ul>
+<h3 data-heading="Challenges and Recommendations" dir="auto">Challenges and Recommendations</h3>
+<ol>
+<li dir="auto">
+<p><strong>Terminology and Classification</strong>:</p>
+<ul>
+<li dir="auto"><mark>Inconsistent terminology hinders clarity. The Central Statistical Organization (CSO) should publish a comprehensive classification list.</mark></li>
+<li dir="auto"><mark>Uninc. is often classified under ‘household’ savings dat</mark>a, which may not fully capture its economic role.</li>
+</ul>
+</li>
+<li dir="auto">
+<p><strong>Data Collection Issues</strong>:</p>
+<ul>
+<li dir="auto"><strong>Database Weakness</strong>: <mark>Outdated or unreliable data hampers effective planning and policy-making.</mark></li>
+<li dir="auto"><mark><strong>Lag in Data</strong>: A significant delay (up to two years) in data dissemination makes it less useful for current decision-making.</mark></li>
+<li dir="auto"><strong>Preliminary Estimates</strong>: Long-term reliance on provisional figures affects the accuracy of economic assessments.</li>
+</ul>
+</li>
+<li dir="auto">
+<p><strong>Recommendations for Improvement</strong>:</p>
+<ul>
+<li dir="auto"><strong>Enhance Data Collection</strong>: <mark>Modernize techniques and improve training for data collection.</mark></li>
+<li dir="auto"><strong>Reduce Lag</strong>: <mark>Minimize the time between data collection and dissemination.</mark></li>
+<li dir="auto"><strong>Strengthen State-Level Systems</strong>: Improve <mark>functionality and perception of Planning and Statistics Departments at the state level.</mark></li>
+</ul>
+</li>
+<li dir="auto">
+<p><strong>Mission Statement for Statistical System</strong>:</p>
+<ul>
+<li dir="auto">The National Statistical Commission emphasizes the need for a reliable, timely, and credible statistical system to aid decision-making, research, and informed debate.</li>
+</ul>
+</li>
+</ol>
+<p dir="auto">As pointed out by the National Statistical Commission chaired by Dr. C.<br>
+Rangarajan, the mission statement of the statistical system should be</p>
+<p dir="auto">“to provide, within the decentralized structure of the system, reliable, timely<br>
+and credible social and economic statistics to assist decision-making within and outside the Government, stimulate research and promote informed debate relating to conditions affecting people’s lives.” (Report of the<br>
+National Statistical Commission; Volume 1,)<br>
+India deserves a better database and this is something India can and<br>
+should achieve as it is a sine qua non for orderly growth and meaningful<br>
+policy formulations</p>
+    </body>
+</html>

@@ -1,0 +1,36 @@
+[[Keep/Colour/DEFAULT]] 
+
+- [ ] Insert At Beginning Of LinkedList
+- [ ] Insert At End Of LinkedList
+- [ ] Delete Node In Linked List
+- [ ] Intersection Of Two Linked List
+- [ ] Insert At A Given Position In LinkedList
+- [ ] Add Two Numbers
+- [ ] Middle Of The Linked List
+- [ ] Reverse Linked List
+- [ ] SortList
+- [ ] Search In LinkedList (Iterative)
+- [ ] Search In LinkedList (Recursive)
+- [ ] Nth Node From End Of LinkedList (Using length of LinkedList)
+- [ ] Nth Node From End Of LinkedList (Using 2 pointers)
+- [ ] Reverse LinkedList (Iterative)
+- [ ] Reverse LinkedList (Recursive - Method1)
+- [ ] Reverse LinkedList (Recursive - Method2)
+- [ ] Remove Duplicates From Sorted LinkedList
+- [ ] Reverse LinkedList In Groups Of K (Iterative)
+- [ ] Reverse LinkedList In Groups Of K (Recursive)
+- [ ] Detect Loop (Using Pointers)
+- [ ] Detect Loop (Using Hashing)
+- [ ] Detect And Remove Loop In LinkedList
+- [ ] Delete Node With Given Pointer In LinkedList
+- [ ] Intersection Point Of 2 LinkedLists (Using Hashing)
+- [ ] Intersection Point Of 2 LinkedLists (Using Difference Of Lengths)
+- [ ] Merge 2 LinkedLists
+- [ ] Rotate LinkedList
+- [ ] Addition (linked lists)
+- [ ] Compare Strings (linked lists)
+- [ ] Count Rotations (linked lists)
+- [ ] Deletion (linked lists)
+- [ ] Insert Whole LinkedList At K (linked lists)
+- [ ] Insertion (linked lists)
+- [ ] Swap Nodes (linked lists)

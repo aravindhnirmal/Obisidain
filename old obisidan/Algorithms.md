@@ -1,0 +1,8 @@
+- [x] Syllabus complete on ✅ 2024-04-23
+- [ ] Revision 1
+- [ ] Revision 2
+- [ ] Revision 3
+- [ ] PYQ revise
+- [ ] Test
+- [ ] Test series subject wise
+- [ ] 

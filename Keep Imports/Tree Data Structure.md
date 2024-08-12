@@ -1,0 +1,33 @@
+[[Keep/Colour/DEFAULT]] [[Keep/Archived]] 
+
+- [ ] Inorder Traversal of a Binary Tree using Recursion
+- [ ] Inorder Traversal of a Binary Tree without Recursion
+- [ ] Preorder Traversal of a Binary Tree using Recursion
+- [ ] Preorder Traversal of a Binary Tree without Recursion
+- [ ] Postorder Traversal of a Binary Tree using Recursion
+- [ ] Postorder Traversal of a Binary Tree without Recursion
+- [ ] Level Order Traversal of a Binary Tree
+- [ ] Reverse Level Order Traversal of a Binary Tree
+- [ ] Height of a Binary Tree
+- [ ] Mirror of a Tree
+- [ ] Invert Binary Tree
+- [ ] Cousins in a Binary Tree
+- [ ] Left view of a Tree
+- [ ] Right view of a Tree
+- [ ] Top view of a Tree
+- [ ] Bottom view of a Tree
+- [ ] Boundary Traversal of a tree
+- [ ] Diagonal Traversal of a tree
+- [ ] Diameter of a binary Tree
+- [ ] LCA of a binary tree
+- [ ] Convert binary tree into sum tree
+- [ ] Sum root to leaf numbers
+- [ ] Path sum
+- [ ] Min Depth of binary Tree
+- [ ] Check if all leaf nodes are present on the same level or not
+- [ ] Check if a binary tree is a subtree of another tree
+- [ ] Construct Binary Tree from given inorder and preorder traversal
+- [ ] Construct Binary Tree from given inorder and postorder
+- [ ] Binary Tree into DLL
+- [ ] Kth ancestor of a node in a Binary Tree
+- [ ] Check if a tree is balanced or not

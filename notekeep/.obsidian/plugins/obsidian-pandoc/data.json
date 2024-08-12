@@ -1,0 +1,15 @@
+{
+  "showCLICommands": true,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "/usr/bin/pandoc",
+  "pdflatex": "/usr/bin/xelatex",
+  "outputFolder": "/home/my/Documents/notekeep/pdf/",
+  "extraArguments": "--pdf-engine=xelatex\n",
+  "exportFrom": "html"
+}

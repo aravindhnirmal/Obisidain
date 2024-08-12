@@ -1,0 +1,22 @@
+[[Keep/Colour/DEFAULT]] [[Keep/Archived]] 
+
+- [ ] Find a value in a Binary Search Tree
+- [ ] Insertion of a node in a Binary Search Tree
+- [ ] Deletion of a node in Binary Search Tree
+- [ ] Find minimum value in a Binary Search Tree
+- [ ] Find maximum value in a Binary Search Tree
+- [ ] Find inorder successor in a Binary Search Tree
+- [ ] Find inorder predecessor in a Binary Search Tree
+- [ ] Check if a binary tree is a BST or not
+- [ ] LCA of 2 nodes in a BST
+- [ ] Kth smallest element in a BST
+- [ ] Kth largest element in a BST
+- [ ] Count pairs from 2 BSTs such that given sum is equal to target
+- [ ] Find the median of BST
+- [ ] Count BST nodes that lie in a given range
+- [ ] Largest BST in a binary tree
+- [ ] Flatten BST to sorted linked list
+- [ ] Construct BST from preorder traversal
+- [ ] Convert BST into balanced BST
+- [ ] Merge two BSTs
+- [ ] Replace every node with the least greatest node in the BST

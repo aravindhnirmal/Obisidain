@@ -1,0 +1,84 @@
+[[Keep/Colour/DEFAULT]] 
+
+- [ ] Average ja 10 % salary hike irukku elarumkum Aana un salary hike enna 
+- [ ] India recussion irukku? Repo rate 5 month increase aagiiruku
+- [ ] 190 basis point 3 year high 5 point la irukku
+- [ ] Corporate tax kamiaagiirukku aana increase aagala
+- [ ] Home loan take pannava ellam 🤬
+- [ ] Tenure ra Kami ya aaganum interest rates increase aaga aaga tenure maximum tenure ra Kami Pani ,emi rate ta increase panu
+- [ ] ************************************************
+- [ ] Ps 1
+- [ ] Creative sense of own - eppadi sell panulam?
+- [ ] Identity install pa
+- [ ] Naan ஜெயிச்சா நீயும் ஜெயிக்க வேண்டும்  atha maathiri selling point 
+- [ ] Conspiracy questions they analysis marketing team
+- [ ] Perfect sell out ps1 
+- [ ] ********************
+- [ ] SWIGGY, ZOMATO;
+- [ ] Before the business start revenue model potuvaga
+- [ ] Ola,uber,swiggy revenue model thapa?
+- [ ] Cash flow enna aagum
+- [ ] Core business break aaga vaipu irukku
+- [ ] Hotel owners :enna da naan vanthu unakita en profit 30 % tharanum naane app uruvaki athula offers poduvun da
+- [ ] ************************************************
+- [ ] B2B IS STABLE COMPARE TO B2C
+- [ ] ***************************************************
+- [ ] INFLUENCER MARKETING PANNUM POTHU ADS NU PODANUM 
+- [ ] ************************************************
+- [ ] INFLUENCER ads nalla iruku ,ri8 influencer athuthaan light line 
+- [ ] Influencer Ivan Ada thaan apidi iruka kutathu
+- [ ] Ads na trust panura vaikanum quality important
+- [ ] 1.followers
+- [ ] 2. Followers oru
+- [ ] 3. Style of contents natural la irukkanum
+- [ ] 4. Ri8 influencer venum
+- [ ] ****************************************
+- [ ] Smart buyers in house
+- [ ] 1. They tell zero processing fee but they increase the vati so , negotiation i want process fee but interest Kami aaku bulider kita ,bike ,coins,cars,avoid it ,main ethovo atha Kami aagki
+- [ ] 2. Cost of living panu calculate,proce vachi calculate panulam athu etha location nu,cost of living athavathu enna communiiea,transport,athu paaru(list vachi paper pen vachi calculate pannanum
+- [ ] ********************************************
+- [ ] Kasu eppo anupatha Dubai ,usa la vachiko ennai rps decrease Aatha Nala unaku rps la unakku profit
+- [ ] ************************************************
+- [ ] Usa ellam epo adivakuthu ,aana poga poga aadivaga porum
+- [ ] ************************************************
+- [ ] Short selling - believe goto low Coming soon ellam varum
+- [ ] Short selling ellam varum 
+- [ ] Paaathuko kjm danger thaan,its ellam factors varum 
+- [ ] Ambani ellathaium vaaguraan
+- [ ] So short selling 🥲
+- [ ] ************************************************ 
+- [ ] Capital should put in right place in right time
+- [ ] ************************************************
+- [ ] Manufacturer industry la increase aaguthu electronics and electrical product oversee 
+- [ ] Enna nadathu nu pakonum
+- [ ] Culfit
+- [ ] ********************************************
+- [ ] Facebook ads running
+- [ ] ********************************************
+- [ ] Important for app maker
+- [ ] 20-27 s early adapter of all
+- [ ] 28 - 35s what features, etc,,time consum ma
+- [ ] All are unplanning Activities,20,27s
+- [ ] High income without kids Target audience 28 - 38 s
+- [ ] Quick commerce is for their
+- [ ] 20 - 35 thaan age is must
+- [ ] Other ages areword of mouth only
+- [ ] Ready to eat is correct ta irukum this age ku
+- [ ] Digital marketing freshers eppadi Ula povathi
+- [ ] First intern
+- [ ] Second apprentice
+- [ ] Third freelancing
+- [ ] ********************************************
+- [ ] Facebook ads course potukoo
+- [ ] Sample irukka portfolio irukkaa skill implimit paniirukiya
+- [ ] ********************************************
+- [ ] Insights neriya irukku maathikoo paathukoo
+- [ ] Mba corresponding no ,may be irukkalam
+- [ ] Depends upon each situation
+- [ ] Data analysis
+- [ ] House loan , Carloan repo rate ku realtion irukku
+- [ ] Philip kotlier  marketing management book king.
+- [ ] Hr in IT Vela employees union na irukka kotathu athuthaan vela
+- [ ] Future clever ra marketing panurathu illa aana honesty mukiyum honesty thaan ethuthaan 
+- [ ] Google analytics , data analytics
+- [ ] Skill la varachithaan mukiyum

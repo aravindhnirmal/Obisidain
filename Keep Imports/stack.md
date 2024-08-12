@@ -1,0 +1,21 @@
+[[Keep/Colour/DEFAULT]] [[Keep/Archived]] 
+
+- [ ] Implementing Stack using Lists (Array)
+- [ ] Implementing Stack using Linked List
+- [ ] Checking if a Stack is Empty
+- [ ] Pushing an Element onto the Stack
+- [ ] Popping an Element from the Stack
+- [ ] Peeking the Top Element of the Stack
+- [ ] Getting the Size of the Stack
+- [ ] Reversing a String using Stack
+- [ ] Evaluating Postfix Expressions using Stack
+- [ ] Evaluating Infix Expressions using Stack
+- [ ] Implementing Two Stacks in a Single Array
+- [ ] Finding the Minimum Element in a Stack
+- [ ] Finding the Maximum Element in a Stack
+- [ ] Validating Parentheses in an Expression using Stack
+- [ ] Converting Decimal to Binary using Stack
+- [ ] Converting Infix to Postfix using Stack
+- [ ] Implementing a Stack with Minimum Operation in O(1) time
+- [ ] Implementing a Stack with Maximum Operation in O(1) time
+- [ ] Designing a Stack with getMin() in O(1) time

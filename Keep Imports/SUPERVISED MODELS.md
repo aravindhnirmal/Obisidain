@@ -1,0 +1,33 @@
+[[Keep/Colour/DEFAULT]] [[Keep/Archived]] 
+
+- [ ]  supervised learning algorithms and models:
+- [ ] Regression:
+- [ ] Linear Regression
+- [ ] Polynomial Regression
+- [ ] Ridge Regression
+- [ ] Lasso Regression
+- [ ] Elastic Net Regression
+- [ ] Support Vector Regression (SVR)
+- [ ] Decision Tree Regression
+- [ ] Random Forest Regression
+- [ ] Gradient Boosting Regression
+- [ ] Extreme Gradient Boosting (XGBoost) Regression
+- [ ] LightGBM Regression
+- [ ] CatBoost Regression
+- [ ] Neural Network Regression
+- [ ] Classification:
+- [ ] Logistic Regression
+- [ ] k-Nearest Neighbors (k-NN) Classification
+- [ ] Decision Tree Classification
+- [ ] Random Forest Classification
+- [ ] Gradient Boosting Classification
+- [ ] Extreme Gradient Boosting (XGBoost) Classification
+- [ ] LightGBM Classification
+- [ ] CatBoost Classification
+- [ ] Naive Bayes Classification
+- [ ] Support Vector Machines (SVM) Classification
+- [ ] Neural Network Classification
+- [ ] Other Models:
+- [ ] Time Series Analysis
+- [ ] Recommender Systems
+- [ ] Multi-Output Regression and Classification

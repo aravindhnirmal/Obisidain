@@ -1,0 +1,15 @@
+1. [[DBMS]]
+2. [[OS]]
+3. [[CN]]
+4. [[DLD]]
+5. [[COA]]
+6. [[C PROGRAMMING AND DS]]
+7. [[ALGORITHMS]]
+8. [[TOC]]
+9. [[COMPLIER]]
+10. [[DM]]
+11. [[1 . Logic]]
+
+[[PYQ]]
+
+[[1. Apitude]]

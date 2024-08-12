@@ -1,0 +1,45 @@
+[[Keep/Colour/DEFAULT]] 
+
+- [ ] Gate
+- [ ] Isi
+- [ ] Vit
+- [ ] ugc net direct phd (new rule but 75% )
+- [ ] Tofel
+- [ ] Bits
+- [ ] Nitie
+- [ ] Iet Lucknow 
+- [ ] Dhirubhai Ambani 
+- [ ] Iiit Delhi , Hyderabad , bhubaneswar, Kerala ,odisha
+- [ ] Coal india
+- [ ] States like 
+- [ ] Tamilnadu tancet ceetapg 
+- [ ] Cucet for various 
+- [ ] Pgcet for Karnataka 
+- [ ] Appgecet
+- [ ] Vitmee
+- [ ] Srmgeet
+- [ ] Upes
+- [ ] Daiict
+- [ ] Barc
+- [ ] ISRO exam
+- [ ] Jest by research top
+- [ ] Tancet ceetapg
+- [ ] Nitie pgdie Mumbai 
+- [ ] By iisc mba by gate
+- [ ] Cmi Chennai maths insutite
+- [ ] Tifr tata institute 
+- [ ] Indian school of mines 
+- [ ] Cat
+- [ ] Cmat
+- [ ] Gmat
+- [ ] Xat
+- [ ] Snap
+- [ ] Tissnet
+- [ ] iift
+- [ ] Snap
+- [ ] Mat
+- [ ] Nmat
+- [ ] Maharashtra crt
+- [ ] Ibscad
+- [ ] Distcet
+- [ ] Sat

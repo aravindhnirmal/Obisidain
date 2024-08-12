@@ -1,0 +1,55 @@
+
+
+## UNIT 1
+- [ ] proofs by induiction and contraditio
+- [ ] Finite automata DFA AND NFA CONSTRUCTIONS
+- [ ] FA LA THEOERM DFA IFF GM WALK A LABEL WITH Qi
+- [ ] ETF
+- [ ] NFA TO DFA
+- [ ] ANOTHER THEROEM
+- [ ] MINMIZE OF DFA AND THEROEM PROCEDURE
+- [ ] RE RL  RELATION
+- [ ] RE TO DFA
+- [ ] GTG
+- [ ] NFA TO RE
+- [ ] LLG RLG
+- [ ] FIND RG
+- [ ] PROPERTIES OF RL
+- [ ] IDENTIFY NGL BY PIGEON HOLE
+- [ ] PUMPING LEMMA PROVE NON REGULAR
+
+## UNIT 2
+
+- [ ] RE VS CFG
+- [ ] CFG
+- [ ] CONTEXT FREE BUILD
+- [ ] FIND CFG FOR GIVEN LANG
+- [ ] LMD RMD
+- [ ] TREE
+- [ ] THEROEM
+- [ ] PARSING AND AMBUIGUITY 
+- [ ] ITS THEROEM
+- [ ] S GRAMMER
+- [ ] e,USELESS , UNIT PRODUCTION,LAMBDA
+- [ ] MEMBERSHIP ALGORITHM
+- [ ] CNF 
+- [ ] GNF
+- [ ] PDA
+- [ ] NPDA
+- [ ] NPDA CFL ACCEPTED
+- [ ] CFG TO PDA
+- [ ] PDA TO CGF
+- [ ] DPDA , DCFL
+- [ ] GRAMMER FOR DCFL
+
+## UNIT 3
+- [ ] PL
+- [ ] PROPERTES OF PL
+- [ ] TM
+- [ ] VARIATION
+- [ ] TM WITH COMPLEX STORAGE
+- [ ] ND TM
+- [ ] UNIVERSAL TM 
+- [ ] LBA
+## UNIT 4
+- [ ] 

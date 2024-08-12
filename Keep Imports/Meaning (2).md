@@ -1,0 +1,120 @@
+[[Keep/Colour/DEFAULT]] 
+
+- [ ] Have on ,had on - to wear something
+- [ ] Hear of ,heard of - when you learn about something or someone 
+- [ ] Appealing - attractive , complaint
+- [ ] suave - attractive, graceful, tasteful,winsome
+- [ ] dilapidated - debris ,disrepair,run down,shabby,battered,rickety,crumbling,unmaintained
+- [ ] Numbing - depriving one of feeling or responsiveness.
+- [ ] Apprehension -action of arresting someone.anxiety or fear that something bad or unpleasant will happen.depriving one of feeling or responsiveness.
+- [ ] pervasive- (especially of an unwelcome influence or physical effect) spreading widely throughout an area or a group of people
+- [ ] Marred சிதைந்தது
+- [ ] In the bag - will certain,you will it or achieve it
+- [ ] An arm and a leg - overstat,magnify, inflate, overvalue
+- [ ] obviate-remove,avoid
+- [ ] plethora-a large or excessive amount of something
+- [ ] debilitating infirm
+- [ ] Calibration அளவீடு
+- [ ] subdued-low spirit,gloomy,low
+- [ ] Alleviate -make less severe
+- [ ] Redressal - to revise
+- [ ] Fertile vs futile 
+- [ ] Sprut - spray , gush,பீச்சியட
+- [ ] Obscene -in descent manner or sexually manner
+- [ ] felicitate  - congratulations
+- [ ] Come over - to make a visit 
+- [ ] Give in- surrender
+- [ ] Clog up prevent the flow of water
+- [ ]  Look over to examine or suspicious
+- [ ] Luck out ,lucked out exception a luck
+- [ ] Severe ,crack down servere action
+- [ ] Cross off -  finish
+- [ ] Cut back decrease spending
+- [ ] Cut down -
+- [ ] Flip out -to become very mad
+- [ ] Eerily -in a strange and frightening manner.
+- [ ] Embroiled - deeply in conflict 
+- [ ] Languish weaken ,grow weaken
+- [ ] Wither -fade , limp
+- [ ] Lapse -fall or decline
+- [ ] Hey day - popularity time 
+- [ ] Shot up - to fire many bullets at a time or inject 
+- [ ] Zeal - வைராக்கியம் 
+- [ ] Wane -lunar phase or gradual diminished the value power 
+- [ ] Cleave into crystal 
+- [ ] Foe enemy,foeman enemy
+- [ ] Carve out - hardwork to built something
+- [ ] Hive off - separate from a small business from big business
+- [ ] Intact - not touched
+- [ ] Condign -  deserved punishment
+- [ ] vital cog  -important from the wheel cog
+- [ ] lack·lustre-(of the hair or the eyes) not shining; dull:
+- [ ] -doled out-distribute or give it away in portions.
+- [ ] deluge- overwhelm of flood or overflow
+- [ ] un·waver·ing - steady ,resolute
+- [ ] benevolence -quality good ,reseaning
+- [ ] mop up-make an end of,finish off
+- [ ] Cohort - division of people
+- [ ] gar·ner-gather,collect,store
+- [ ] prowess - skill or expertise in a particular activity or field, or skillfully
+- [ ] Pitfalls - danger
+- [ ] battered - related flaws
+- [ ] Modernation -quality of being reasonable and not being extreme.
+- [ ] Absicht ,sake  , ground,wick - நிமித்தம், காரணம் 
+- [ ] Premise assume 
+- [ ] Dearth  scarcity 
+- [ ] Extinct - obsolete,no longer used
+- [ ] Obscure,Indistinct - undefined
+- [ ] Perished - exit,death
+- [ ] deed-an action that is performed intentionally or consciously.
+- [ ] proprietor-the owner of a business, or a holder of property.
+- [ ] proprietress-women landlady
+- [ ] mistress-owner who is  a lady or a woman having an extramarital sexual relationship, especially with a married man.
+- [ ] archaic -olden,belonging to an earlier time.
+- [ ] obsolete- out of date,forgotten,long-ago,earlier,past,
+- [ ] forepassed- pass
+- [ ] defunct - de fun du- impotent,discontuied,fosslized,no longer in use
+- [ ] ladylove - women lover
+- [ ] imperative -stern,austere-important or severe or strict in manner, attitude, or appearance
+- [ ] fraught-fillled with,full of
+- [ ] propriety-respect,courtesy,owner,homage,the state or quality of conforming to conventionally accepted standards of behavior or morals
+- [ ] impropriety-
+- [ ] strapped-shortage of cash
+- [ ] crunch -hard,crisis
+- [ ] brink-an extreme edge of land before a steep or vertical slope
+- [ ] mulling
+- [ ] Faltering - losing strength
+- [ ] Negligence- carelessness 
+- [ ] Decree - order by higher authority,precept, rule,edict
+- [ ] Scowl- look with angry,
+- [ ] Reckless - careless
+- [ ] Proximity - latest,
+- [ ] Vicinity - neighbour area
+- [ ] Stench - bad smell
+- [ ] Fishy - doubt
+- [ ] Rags - very old, Rags to rich
+- [ ] Gleamed - shine , very brightly
+- [ ] Tantamount - to be equivalent
+- [ ] Obliged - duty
+- [ ] Compelling - forcefully
+- [X] Hang around - to spend time in a place or ana area
+- [X] Freaked out - becomes irrational, upset, confused
+- [X] Go for - to try to obtain,put some effort for that 
+- [X] White lies - நம்ப தகுந்த பொய்கள்
+- [X] Elegant - stylish
+- [X] Nabbing -catch
+- [X] Apprehend , detention, arrested-கைது
+- [X] mutiny revolt 
+- [X] Nabbed - caught
+- [X] aptly - suitable
+- [X] Deceive deceived ஏமாற்றினார். Fall for
+- [X] Deserve - தகுதி, யோக்கியமான 
+- [X] Thy - yours 
+- [X] Venture - risk
+- [X] Recurrent - repeated
+- [X] owing  - கடன்பட்டுள்ளது
+- [X] Imperative - important
+- [X] ought to be- want ,or seiya vendum
+- [X] deed- documents (legal)
+- [X] hotelier - hotel li er - owner of the hotel
+- [X] licensee - உரிமம் பெற்றவர்

@@ -1,0 +1,21 @@
+[[Keep/Colour/DEFAULT]] 
+
+- [ ] Benjamin Graham
+- [ ] John Templeton
+- [ ] Thomas Rowe Price Jr.
+- [ ] John Neff
+- [ ] Jesse Livermore
+- [ ] Peter Lynch
+- [ ] George Soros
+- [ ] Warren Buffett
+- [ ] John (Jack) Bogle
+- [ ] Carl Icahn
+- [ ] William H. Gross
+- [ ] Charlie Munger 
+- [ ] Philip fisher 
+- [ ] Bill Ackman
+- [ ] John Paulson
+- [ ] Munger
+- [ ] Bill Gross: Have Conviction
+- [ ] Dennis Gartman: Let Winners Run
+- [ ] Prince Alwaleed Bin Talal: Patience Is Key

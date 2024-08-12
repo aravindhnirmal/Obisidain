@@ -1,0 +1,43 @@
+[[Keep/Colour/DEFAULT]] 
+
+- [ ] 1. **CSS Tricks**
+- [ ]    - Website: [CSS Tricks](https://css-tricks.com/)
+- [ ] 2. **Dev.to**
+- [ ]    - Website: [Dev.to](https://dev.to/)
+- [ ] 3. **Josh W Comeau**
+- [ ]    - Website: [Josh W Comeau](https://joshwcomeau.com/)
+- [ ] 4. **LogRocket**
+- [ ]    - Website: [LogRocket](https://blog.logrocket.com/)
+- [ ] 5. **Rachel by the bay**
+- [ ]    - No specific link provided in the text.
+- [ ] 6. **Smashing Magazine**
+- [ ]    - Website: [Smashing Magazine](https://www.smashingmagazine.com/)
+- [ ] 7. **Google’s web.dev**
+- [ ]    - Website: [web.dev](https://web.dev/)
+- [ ] 8. **Netflix TechBlog**
+- [ ]    - No specific link provided in the text.
+- [ ] 9. **A List Apart**
+- [ ]    - Website: [A List Apart](https://alistapart.com/)
+- [ ] 10. **Jeff Atwood’s Coding Horror**
+- [ ]     - Website: [Coding Horror](https://blog.codinghorror.com/)
+- [ ] 11. **WeAreDevelopers Magazine**
+- [ ]     - Website: [WeAreDevelopers Magazine](https://www.wearedevelopers.com/)
+- [ ] 12. **All Things Distributed**
+- [ ]     - No specific link provided in the text.
+- [ ] 13. **Martin Fowler**
+- [ ]     - Website: [Martin Fowler's Bliki](https://martinfowler.com/)
+- [ ] 14. **Martin Kleppman**
+- [ ]     - No specific link provided in the text.
+- [ ] 15. **Quastor**
+- [ ]     - No specific link provided in the text.
+- [ ] 16. **Farnam Street**
+- [ ]     - Website: [Farnam Street Blog](https://fs.blog/blog/)
+- [ ] 17. **Paul Graham’s Essays**
+- [ ]     - Website: [Paul Graham's Essays](http://www.paulgraham.com/articles.html)
+- [ ] 18. **Rands In Repose**
+- [ ]     - Website: [Rands In Repose](https://randsinrepose.com/)
+- [ ] 19. **Will Larson**
+- [ ]     - Website: [Will Larson's Blog](https://lethain.com/)
+- [ ] 20. **Staff Eng**
+- [ ]     - Website: [Staff Eng](https://staffeng.com/)
+- [ ] The text does not provide specific links for some blogs, but you can search for them using the blog names. Additionally, the author invites readers to suggest other blogs for inclusion in the list.

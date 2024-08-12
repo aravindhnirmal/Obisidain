@@ -1,0 +1,8 @@
+- [ ] Syllabus complete on 
+- [ ] Revision 1
+- [ ] Revision 2
+- [ ] Revision 3
+- [ ] PYQ revise
+- [ ] Test
+- [ ] Test series subject wise
+- [ ] 

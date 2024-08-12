@@ -1,0 +1,24 @@
+[[Keep/Colour/DEFAULT]] [[Keep/Archived]] 
+
+- [ ]  to evaluate the performance of machine learning models:
+- [ ] K-fold cross-validation
+- [ ] Leave-one-out cross-validation
+- [ ] Stratified sampling
+- [ ] Hold-out validation
+- [ ] Repeated random sub-sampling validation
+- [ ] Nested cross-validation
+- [ ] Receiver Operating Characteristic (ROC) Curve
+- [ ] Precision-Recall Curve
+- [ ] Confusion Matrix
+- [ ] F1 Score
+- [ ] Mean Absolute Error (MAE)
+- [ ] Mean Squared Error (MSE)
+- [ ] Root Mean Squared Error (RMSE)
+- [ ] Coefficient of Determination (R^2)
+- [ ] Mean Absolute Percentage Error (MAPE)
+- [ ] Relative Squared Error (RSE)
+- [ ] Cross-Validation Score
+- [ ] Grid Search
+- [ ] Random Search
+- [ ] Learning Curves
+- [ ] These techniques can be used for different purposes, such as hyperparameter tuning, model selection, and performance evaluation, and they can be applied to various types of machine learning problems, such as classification, regression, and clustering.

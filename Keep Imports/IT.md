@@ -1,0 +1,11 @@
+[[Keep/Colour/DEFAULT]] 
+
+
+IT
+
+1.HCL TECH
+2.INFOSYS
+3. TCS
+4. 4. TECH MAHINDRA
+5. 5. WIPRO 
+6. Lodha

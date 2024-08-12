@@ -1,0 +1,82 @@
+[[Keep/Colour/DEFAULT]] 
+
+- [ ] Queen gambit
+- [ ] Peaky blinder
+- [ ] Suits
+- [ ] The whale
+- [ ] The mask
+- [ ] predestination
+- [ ] happy death day 1,2
+- [ ] Attack on Titan 
+- [ ] triangle
+- [ ] dark
+- [ ] Suits
+- [ ] ready or not 
+- [ ] francoise lebrun dario argento vortex
+- [ ] i am not an easy man
+- [ ] Prison Break: 
+- [ ] Power book 2 the ghost
+- [ ] Godfather of Harlem
+- [ ] Vaayai moodi pesavum
+- [ ] inception
+- [ ] zodiac
+- [ ] blade runner
+- [ ] the matrix
+- [ ] donnie darko
+- [ ] alice in wonderland(1951)
+- [ ] watchmen
+- [ ] dont look up
+- [ ] blacklist
+- [ ] snowfalls
+- [ ] into the wild 
+- [ ] the hateful eight
+- [ ] seven
+- [ ] 127 hours
+- [ ] the departed
+- [ ] pulp fiction
+- [ ] magnolia
+- [ ] whiplash
+- [ ] back to the future
+- [ ] Meet Joe Black 
+- [ ] The Curious Case of Benjamin Button 
+- [ ] John Q
+- [ ] The Age of Adaline 
+- [ ] Amsterdam
+- [ ] Before Sunrise 
+- [ ] Before Sunset 
+- [ ] Before Midnight 
+- [ ] Liberal Arts 
+- [ ] Jojo rabbit
+- [ ] Moonrise Kingdom 
+- [ ] Pierrot le fou
+- [ ] About Time 
+- [ ] Good Will Hunting 
+- [ ] The Perks of Being a Wallflower 
+- [ ] Everything Everywhere all at once
+- [ ] A good doctor
+- [ ] Cobra Kai
+- [ ] Manifest
+- [ ] Parsite (oscar)
+- [ ] 13 reason why
+- [ ] Army of thief 1,2
+- [ ] In the tall  grass 
+- [ ] All the bright place
+- [ ] Eighteen pages
+- [ ] In the Heart of the Sea
+- [ ] The Boy in the Striped Pajamas
+- [ ] The wire Netflix
+- [ ]  crazy stupid love
+- [ ] Gangstar squad
+- [X] Tuesday in Tamil
+- [X] Steve jobs
+- [X] Kadaseela briyani
+- [X] The playlist
+- [X] Maamanan
+- [X] Truance
+- [X] Thekadi
+- [X] sherlockholmes
+- [X] Ayothi
+- [X] La La Land 
+- [X] Office s3
+- [X] Office s2
+- [X] Office s1

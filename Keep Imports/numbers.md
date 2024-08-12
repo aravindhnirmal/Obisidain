@@ -1,0 +1,26 @@
+[[Keep/Colour/DEFAULT]] [[Keep/Archived]] 
+
+- [ ] HCF (Highest Common Factor) / GCD (Greatest Common Divisor)
+- [ ] LCM (Lowest Common Multiple)
+- [ ] Binary to Decimal Conversion
+- [ ] Octal to Decimal Conversion
+- [ ] Hexadecimal to Decimal Conversion
+- [ ] Decimal to Binary Conversion
+- [ ] Decimal to Octal Conversion
+- [ ] Decimal to Hexadecimal Conversion
+- [ ] Binary to Octal Conversion
+- [ ] Octal to Binary Conversion
+- [ ] Quadrants in Which a Given Coordinate Lies
+- [ ] Permutations in Which n People Can Occupy r Seats in a Classroom
+- [ ] Maximum Number of Handshakes
+- [ ] Addition of Two Fractions
+- [ ] Replace All 0's with 1 in a Given Integer
+- [ ] Can a Number Be Expressed as a Sum of Two Prime Numbers
+- [ ] Count Possible Decodings of a Given Digit Sequence
+- [ ] Calculate the Area of a Circle
+- [ ] Find the Prime Numbers Between 1 to 100
+- [ ] Calculate the Number of Digits in an Integer
+- [ ] Convert Digit/Number to Words
+- [ ] Counting Number of Days in a Given Month of a Year
+- [ ] Finding Number of Times 'x' Digit Occurs in a Given Input
+- [ ] Finding Number of Integers Which Have Exactly 'x' Divisors
