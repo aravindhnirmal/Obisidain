@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "099e0db72bbb1f94",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec36e55306566ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9c3e79785e50271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notekeep/JOURNAL/MONTHLY NOTES/AUG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b347ebbf14f700d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d2689803cb3d4a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "252b26351b676eb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b8b6ee8451939a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0115f8a86cf49bc9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb2407f7e754b54f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dd1dfeafe9953d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d828ec7383902058",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notekeep/JOURNAL/MONTHLY NOTES/AUG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de2834dbe8e259bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notekeep/JOURNAL/MONTHLY NOTES/AUG.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26b08be80faaff9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7b2bc4c4777137e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notekeep/JOURNAL/MONTHLY NOTES/AUG.md"
+              }
+            }
+          },
+          {
+            "id": "9a4fc34ac23dfdb6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d9c3e79785e50271",
+  "lastOpenFiles": [
+    "notekeep/JOURNAL/MONTHLY NOTES/OCT.md",
+    "notekeep/JOURNAL/MONTHLY NOTES/SEP.md",
+    "notekeep/JOURNAL/IMPORTANT/Plannns in the date of 07 08 2024.md",
+    "notekeep/JOURNAL/DAILY/JOURNAL.md",
+    "notekeep/JOURNAL/DAILY/2024-08-12.md",
+    "notekeep/JOURNAL/DAILY/2024-08-11.md",
+    "notekeep/JOURNAL/DAILY/2024-08-10.md",
+    "notekeep/JOURNAL/DAILY/2024-08-09.md",
+    "notekeep/JOURNAL/DAILY/2024-08-08.md",
+    "notekeep/JOURNAL/DAILY/2024-08-07.md",
+    "notekeep/Engin. Maths/Engin.Maths.md",
+    "notekeep/Apitude/Simple Interest.md",
+    "notekeep/Apitude/Profit and Loss.md",
+    "notekeep/Apitude/Area.md",
+    "notekeep/Apitude/1. Apitude.md"
+  ]
+}
