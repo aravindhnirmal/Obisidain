@@ -8,36 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9c3e79785e50271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notekeep/JOURNAL/DAILY/2024-08-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d4555e2a2bee0fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "072f959009ec3a19",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "922468e855aac722",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Routine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2410d2419d63a404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Untitled 2.md"
               }
             }
           },
@@ -180,25 +176,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "072f959009ec3a19",
+  "active": "2410d2419d63a404",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 1.md",
-    "notekeep/JOURNAL/DAILY/2024-08-12.md",
-    "notekeep/JOURNAL/MONTHLY NOTES/AUG.md",
-    "notekeep/JOURNAL/MONTHLY NOTES/OCT.md",
-    "notekeep/JOURNAL/MONTHLY NOTES/SEP.md",
-    "notekeep/JOURNAL/IMPORTANT/Plannns in the date of 07 08 2024.md",
-    "notekeep/JOURNAL/DAILY/JOURNAL.md",
-    "notekeep/JOURNAL/DAILY/2024-08-11.md",
-    "notekeep/JOURNAL/DAILY/2024-08-10.md",
+    "Routine.md",
+    "Untitled 2.md",
     "notekeep/JOURNAL/DAILY/2024-08-09.md",
     "notekeep/JOURNAL/DAILY/2024-08-08.md",
-    "notekeep/JOURNAL/DAILY/2024-08-07.md",
-    "notekeep/Engin. Maths/Engin.Maths.md",
-    "notekeep/Apitude/Simple Interest.md",
-    "notekeep/Apitude/Profit and Loss.md",
-    "notekeep/Apitude/Area.md",
-    "notekeep/Apitude/1. Apitude.md"
+    "notekeep/JOURNAL/DAILY/2024-08-06.md",
+    "notekeep/JOURNAL/DAILY/2024-08-05.md",
+    "notekeep/Apitude/Percentage.md",
+    "notekeep/Apitude/Permutations and Combinations.md",
+    "notekeep/Apitude/Heights and Distances.md",
+    "notekeep/Apitude/H.C.F. and L.C.M. of Numbers.md",
+    "notekeep/Apitude/Decimal Fractions.md",
+    "notekeep/Apitude/Compound Interest.md",
+    "notekeep/Apitude/Clocks.md",
+    "notekeep/Apitude/Chain Rule.md",
+    "notekeep/Apitude/Calendar.md",
+    "notekeep/Apitude/Banker’s Discount.md",
+    "notekeep/Apitude/Boats and Streams.md",
+    "notekeep/Apitude/Average.md",
+    "notekeep/Apitude/1. Number System/Upto n Terms.md",
+    "notekeep/Apitude/1. Number System/unit digit.md",
+    "notekeep/Apitude/1. Number System/Sum of Series.md",
+    "notekeep/Apitude/1. Number System/Place and Face value.md",
+    "notekeep/Apitude/1. Number System/Miscellaeous.md",
+    "notekeep/Apitude/1. Number System/Finding Remember.md",
+    "notekeep/Apitude/1. Number System/Finding a Remember.md",
+    "notekeep/Apitude/1. Number System/Consective Numbers.md"
   ]
 }
