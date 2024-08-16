@@ -3,5 +3,7 @@
   "obsidian-checklist-plugin",
   "obsidian-pandoc",
   "obsidian-dictionary-plugin",
-  "image-converter"
+  "image-converter",
+  "obsidian-daily-stats",
+  "obsidian-daily-note-outline"
 ]

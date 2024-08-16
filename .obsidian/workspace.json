@@ -4,17 +4,92 @@
     "type": "split",
     "children": [
       {
-        "id": "9ec36e55306566ea",
+        "id": "0206f32a48add3c7",
         "type": "tabs",
+        "dimension": 87.30964467005076,
         "children": [
           {
             "id": "072f959009ec3a19",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notekeep/Apitude/Simple Interest.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
+          {
+            "id": "cd9d8b08dc6a91ac",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notekeep/Apitude/1. Apitude.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ca514d9ef93e2427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notekeep/Logic/Blood Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe401b0ce9d6d31b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notekeep/Apitude/Compound Interest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "285e18a20228dec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notekeep/Apitude/Percentage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5660fda0d17f9527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notekeep/Apitude/Surds and Indices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9ec36e55306566ea",
+        "type": "tabs",
+        "dimension": 12.690355329949236,
+        "children": [
           {
             "id": "922468e855aac722",
             "type": "leaf",
@@ -33,7 +108,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-15.md",
+                "file": "notekeep/Apitude/1. Apitude.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d9a4b19e8280882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notekeep/Logic/Blood Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b29cda78840ca65d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notekeep/Apitude/Compound Interest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba6ce00287a04e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notekeep/Apitude/Simple Interest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0081acf5f2a2b7c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notekeep/Apitude/Percentage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3368fa65a6982ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notekeep/Apitude/Average.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +186,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-15.md",
+                "file": "notekeep/Apitude/1. Apitude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-15.md",
+                "file": "notekeep/Apitude/1. Apitude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-15.md"
+                "file": "notekeep/Apitude/1. Apitude.md"
               }
             }
           },
@@ -169,17 +303,39 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "2cb1f0544a1deb4c",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b2e07e2e08fc207",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              }
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -188,33 +344,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2410d2419d63a404",
+  "active": "cd9d8b08dc6a91ac",
   "lastOpenFiles": [
+    "gopdfs/GO_OS_PDF/038_Lecture_18_Peterson&#039;s_solution_and_Hardware_Solutions.pdf",
+    "gopdfs/GO_OS_PDF/037. Annotated Notes Lecture 17.pdf",
+    "gopdfs/GO_OS_PDF/036_Lecture_17__Questions_on_Critical_Section_Solution_Requirements.pdf",
+    "gopdfs/GO_OS_PDF/035. Annotated Notes Lecture 16.pdf",
+    "gopdfs/GO_OS_PDF/034. Lecture 16_ Critical Section Solution Requirements.pdf",
+    "gopdfs/GO_OS_PDF/033. Annotated Notes Lecture 15.pdf",
+    "gopdfs/GO_OS_PDF/032. Lecture 15_ Introduction to Synchronisation.pdf",
+    "gopdfs/GO_OS_PDF/031. Annotated Notes Lecture 14.pdf",
+    "gopdfs/GO_OS_PDF/030. Lecture 14 _ InterProcess Communication (IPC).pdf",
+    "gopdfs/GO_OS_PDF/029. Annotated Notes Lecture 13.pdf",
+    "gopdfs/GO_OS_PDF/028. Lecture 13 _ Scheduling Algorithms_ Priority Scheduling.pdf",
+    "notekeep/Apitude/Surds and Indices.md",
+    "notekeep/Apitude/Percentage.md",
+    "notekeep/Apitude/1. Apitude.md",
+    "Routine.md",
+    "notekeep/Apitude/Square Roots and Cube Roots.md",
+    "notekeep/Apitude/H.C.F. and L.C.M. of Numbers.md",
+    "notekeep/Logic/Blood Relation.md",
+    "notekeep/Apitude/Compound Interest.md",
+    "notekeep/Apitude/Simple Interest.md",
+    "notekeep/Apitude/1. Number System/Finding Remember.md",
+    "notekeep/Engin. Maths/Linear algebra/Linear Algebra.md",
+    "notekeep/Engin. Maths/Engin.Maths.md",
+    "notekeep/Engin. Maths/Linear algebra/la.md",
     "2024-08-14.md",
+    "notekeep/Apitude/Average.md",
+    "notekeep/Apitude/1. Number System/Place and Face value.md",
+    "notekeep/Apitude/1. Number System/Miscellaeous.md",
+    "notekeep/Apitude/1. Number System/Finding a Remember.md",
+    "notekeep/Apitude/1. Number System/Divisble rule.md",
+    "notekeep/Apitude/1. Number System/Consective Numbers.md",
     "2024-08-15.md",
     "notekeep/JOURNAL/DAILY/2024-08-12.md",
     "Untitled 2.md",
-    "Routine.md",
     "notekeep/JOURNAL/DAILY/2024-08-09.md",
-    "notekeep/JOURNAL/DAILY/2024-08-08.md",
-    "notekeep/JOURNAL/DAILY/2024-08-06.md",
-    "notekeep/JOURNAL/DAILY/2024-08-05.md",
-    "notekeep/Apitude/Percentage.md",
-    "notekeep/Apitude/Permutations and Combinations.md",
-    "notekeep/Apitude/Heights and Distances.md",
-    "notekeep/Apitude/H.C.F. and L.C.M. of Numbers.md",
-    "notekeep/Apitude/Decimal Fractions.md",
-    "notekeep/Apitude/Compound Interest.md",
-    "notekeep/Apitude/Clocks.md",
-    "notekeep/Apitude/Chain Rule.md",
-    "notekeep/Apitude/Calendar.md",
-    "notekeep/Apitude/Banker’s Discount.md",
-    "notekeep/Apitude/Boats and Streams.md",
-    "notekeep/Apitude/Average.md",
-    "notekeep/Apitude/1. Number System/Upto n Terms.md",
-    "notekeep/Apitude/1. Number System/unit digit.md",
-    "notekeep/Apitude/1. Number System/Sum of Series.md",
-    "notekeep/Apitude/1. Number System/Place and Face value.md",
-    "notekeep/Apitude/1. Number System/Miscellaeous.md"
+    "notekeep/JOURNAL/DAILY/2024-08-08.md"
   ]
 }
